@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>آموزش ریاضی</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; text-align: center; background-color: #f4f4f4; padding: 50px; }
+        h1 { color: #333; }
+        p { color: #666; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>به سایت آموزش ریاضی خوش آمدید</h1>
+    <p>اینجا می‌توانید جزوه‌ها و ویدیوهای آموزشی را مشاهده کنید.</p>
+</body>
+</html>
